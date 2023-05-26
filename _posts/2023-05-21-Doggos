@@ -1,0 +1,17 @@
+# Doggos!
+As part of the assignment, we were tasked with applying what we learnt to an animal classifer. As part of this, I chose to make a dog breed classifer that would discrimate between the following types of dogs:
+'German Shepherd','Golden Retriever','Chihuahua','Poodle','Rottweiler',
+'Australian Shepherd', 'Border Collie', 'Dachshund','Borzoi','Shiba Inu', 'cavoodle',
+'Dobermann','Siberian Husky','Corgi','Pug','English Bulldog','French Bulldog', 
+'Newfoundland Dog','Dalmation','Greyhound'
+With this in mind, we went to repliate the FASTAI is it a bird example!
+## Image Scraping, my newfound hatred
+Duckduckgo, the smaller, privacy concious search engine, has something that its competitiors bing and google do not, free API access. It has got to be the bane of my existance. It has one rAbout a week into the assignment time, we were given, the API changed, causing massive changes to the scraping algorithm. With this in mind, I just had to wait and it was fixed a few days before the due date.
+## The model itself
+After training the model, we found that it was capable of validating 94% of the dog breeds correctly. An amazing result. It seemed like there were a few common problems that were present that increased the error rate:
+1.   Puppies:
+Puppies, like other animals and human infants, have different facial and body shapes as compared to their full grown counterparts. With this in mind, similar breeds are harder to tell as compared to full grown dogs.
+2.   Colouring: Dogs with different colouring to what is considered normal to their breed are often mispredicted. For example in the figures below there is a daschound and a german shepheard with non-traditional colouring that are misinterpreted as completely different breeds (Golden Retriever and Husky). 
+3.   Grooming: Dogs may be groomed to look like another breed of dog. For example, cavoodles that are more "poodley'as a result of their cross-bred nature are often groomed to excentuate the poodlieness of the breed. With this, it cavoodles are often mispredicted as poodles.
+
+With this in mind, considering many humans have trouble with these sorts of things, I consider this to be an amazing result!
