@@ -1,4 +1,2 @@
 # About
-
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+My name is Harry and I'm a fifth year Electrical Engineering and Mathematics Student taking ELEC4630!
