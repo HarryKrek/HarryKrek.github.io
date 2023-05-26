@@ -1,7 +1,5 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Hello and welcome to my FASTAI blog!. Follow me through my journey with FASTAI!!!
 
-![Image of fast.ai logo](images/logo.png)
+![Is Me](images/me.jpg)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+<span style="font-family: Comic Sans MS;">I can't wait to go through everything!!.</span>
